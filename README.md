@@ -1,4 +1,4 @@
-# Заметки #
+# Ежедневник #
 
 Веб-приложение для управления задачами, созданное с использованием HTML, CSS и JavaScript.
 
@@ -18,4 +18,4 @@
 
 # Запуск #
 
-Перейдите по ссылке в браузере [GitHub Pages](https://vuanparu.github.io/simple-todo-app/)
+Ежедневник доступен по ссылке: [GitHub Pages](https://vuanparu.github.io/simple-todo-app/)
