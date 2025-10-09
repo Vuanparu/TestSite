@@ -1,4 +1,3 @@
-// Загрузка задач из localStorage при загрузке страницы
 document.addEventListener('DOMContentLoaded', loadTasks);
 
 function addTask() {
